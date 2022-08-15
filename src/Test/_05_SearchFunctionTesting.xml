@@ -1,0 +1,13 @@
+<suite name =  "Test suite">
+    <test name = "functionTest" >
+    <parameters name = "search" value = "mac">
+
+
+        </parameters>
+        <classes>
+            <class name = "Test._04_SearchFunction">
+            </class>
+        </classes>
+    </test>
+
+</suite>

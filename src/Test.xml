@@ -1,0 +1,19 @@
+<suite name = "Search Function Test Suite">
+
+    <test name  = "Search Test">
+        <parameter name = "search" value="mac"></parameter>
+        <classes>
+            <class name = "Test._04_SearchFunction">
+            </class>
+        </classes>
+    </test>
+
+    <test name  = "Sony">
+        <parameter name = "search" value="Sony"></parameter>
+        <classes>
+            <class name = "Test._04_SearchFunction">
+            </class>
+        </classes>
+    </test>
+
+</suite>
