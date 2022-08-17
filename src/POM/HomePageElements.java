@@ -34,4 +34,14 @@ public class HomePageElements {
     @FindAll({@FindBy(xpath = "//h4")})
     public List<WebElement> searchResultItems;
 
+    @FindBy(xpath = "//a[text()='Contact Us']")
+    public WebElement contactUsButton;
+
+    @FindBy(id = "input-enquiry")
+    public WebElement enquiryPlace;
+
+    @FindBy(css = "input[class='btn btn-primary']")
+    public WebElement submitButton;
+
+
 }
