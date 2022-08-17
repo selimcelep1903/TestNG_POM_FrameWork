@@ -1,0 +1,16 @@
+<suite name = "Contact Us Function Test Suite ">
+
+    <test   name = "Contact Us Test">
+        <parameter name = "contactUs" value="selimcelep">
+
+        </parameter>
+        <classes>
+
+            <class name = "Test._06_ContactUsFunction"></class>
+
+        </classes>
+
+
+    </test>
+
+</suite>
